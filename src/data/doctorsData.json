@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "description": "Specialist in emergency medicine",
+    "location": "Chennai",
+    "image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg="
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "description": "Specialist in Neurology",
+    "location": "Coimbatore",
+    "image": "https://png.pngtree.com/png-vector/20240612/ourmid/pngtree-lady-doctor-image-png-image_12725825.png"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Chris Jordan",
+    "description": "Specialist in cardiology",
+    "location": "Salem",
+    "image": "doctor-chris-jordan.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Vijay",
+    "description": "Specialist in emergency medicine",
+    "location": "Chennai",
+    "image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Boopesh",
+    "description": "Specialist in Gastroenterologist",
+    "location": "Erode",
+    "image": "https://w7.pngwing.com/pngs/104/498/png-transparent-physician-lia-doctor-of-medicine-doctors-and-nurses-miscellaneous-photography-service-thumbnail.png"
+  }
+]

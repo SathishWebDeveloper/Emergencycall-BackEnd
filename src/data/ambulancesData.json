@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Ambulance Service 1",
+    "description": "24/7 emergency response",
+    "location": "Salem",
+    "image": "https://media.istockphoto.com/id/1310709685/photo/ambulance-car-isolated-on-white.jpg?s=612x612&w=0&k=20&c=Z_Bgg3nlCu8b8ZuIN5ckI4xMd53wlyzVGy8eyfahK2Y="
+  },
+  {
+    "id": 2,
+    "name": "Ambulance Service 2",
+    "description": "24/7 critical and emergency response",
+    "location": "Tirunelveli",
+    "image": "https://www.shutterstock.com/image-vector/ambulance-car-cartoon-style-kids-600nw-2403135027.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ambulance Service 3",
+    "description": "24/7 emergency response",
+    "location": "Chennai",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/12/368723895/AQ/VM/DF/119673741/force-traveller-ambulance.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ambulance Service 4",
+    "description": "24/7 emergency response",
+    "location": "Tiruchirappalli",
+    "image": "https://img.freepik.com/free-vector/emergency-ambulance-white-background_1308-95157.jpg"
+  }
+]
